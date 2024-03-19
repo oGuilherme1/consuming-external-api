@@ -78,7 +78,6 @@ php artisan horizon
 
 - **Method**: POST
 - **URL**: http://localhost:8000/api/v1/login
-- **Token required**: `Authorization: Bearer {TOKEN}`
 
 ```json
 {
